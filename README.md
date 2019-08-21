@@ -2,8 +2,11 @@
 
 <img src="banner/banner_proyecto.png">
 
-<h2>Objetivo</h2>
-Predecir si la solicitud de una persona para una tarjeta de crédito sería aprobada o rechazada, dada una información acerca del solicitante
+
+<h3>Objetivo</h3>
+
+Predecir si la solicitud de una persona para una tarjeta de crédito sería aprobada o rechazada, dada una información acerca del solicitante.
+
 
 Los datos utilizados provienen del repositorio de aprendizaje automático de UCI: http://archive.ics.uci.edu/ml/datasets/credit+approval
 
