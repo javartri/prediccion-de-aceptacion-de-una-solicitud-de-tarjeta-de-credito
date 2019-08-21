@@ -1,8 +1,8 @@
-# prediccion de aceptacion de una solicitud de tarjeta de credito
+# Predicción de aceptación de una solicitud de tarjeta de crédito
 
 Los datos utilizados provienen del repositorio de aprendizaje automático de UCI: http://archive.ics.uci.edu/ml/datasets/credit+approval
 
-• Consta de 15 variables que representan varios atributos del cliente. Estas variables son anónimas para proteger la privacidad de los clientes. La decimosexta variable representa si los bancos aprueban o rechazan la solicitud para esa persona en forma de + o -
+El dataset consta de 15 variables que representan varios atributos del cliente. Estas variables son anónimas para proteger la privacidad de los clientes. La decimosexta variable representa si los bancos aprueban o rechazan la solicitud para esa persona en forma de + o -
 
 • Los datos también tienen algunos valores faltantes. Es posible que algunos modelos no funcionen con datos faltantes. Puede haber alguna información importante que pueda usarse para entrenar el modelo.
 
