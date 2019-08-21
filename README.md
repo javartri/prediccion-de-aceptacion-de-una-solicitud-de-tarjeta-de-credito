@@ -15,9 +15,11 @@ El dataset consta de 15 variables que representan varios atributos del cliente. 
 
 <h3> Librerias utilizadas </h3>
 <ol>
-<li type="disc">Pandas</li>
-<li type="disc">Numpy</li>
-<li type="disc">Seaborn</li>
-<li type="disc">Matplotlib.pyplot</li>
-<li type="disc">Sklearn</li>
+<li type="disc">pandas</li>
+<li type="disc">numpy</li>
+<li type="disc">seaborn</li>
+<li type="disc">matplotlib.pyplot</li>
+<li type="disc">sklearn</li>
+<li type="disc">tensorflow</li>
+  
   </ol>
